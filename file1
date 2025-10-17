@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello from VS Code!\n");
+    printf("Hello from KD!\n");
     return 0;
 }
+
