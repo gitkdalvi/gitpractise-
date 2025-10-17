@@ -1,6 +1,8 @@
-#include <stdio.h>
-
-int main() {
-    printf("Hello from Code!\n");
-    return 0;
-}
+# condition.py
+# age = int(input("Enter your age: "))
+#
+# if age >= 18:
+#     print("You are an adult.")
+#     else:
+#         print("You are a minor.")
+#
